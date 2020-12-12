@@ -6,7 +6,7 @@ This software is a deliberately vulnerable threaded TCP server application
 This is vulnerable software, don't run it on an important system!  The author assumes no responsibility if 
 you run this software and your system gets compromised, because this software was designed to be exploited!
 
-Forked and modified by Foxlox starting by Vulnserver sources, wrote by Stephen Bradsh in 2010.
+Forked and modified by Fortunato Lodari fox@thebrain.net (foxlox)  starting by Vulnserver sources, wrote by Stephen Bradsh in 2010.
 
 Original Copyright (c) 2010, Stephen Bradshaw
 All rights reserved.
